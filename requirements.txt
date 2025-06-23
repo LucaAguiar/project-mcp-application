@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-anthropic
+anthropic
+python-dotenv
+pandas
+requests
+psycopg2-binary
+pymongo
